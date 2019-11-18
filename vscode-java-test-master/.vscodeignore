@@ -1,0 +1,24 @@
+.vscode/**
+.vscode-test/**
+out/**
+test/**
+src/**
+**/*.map
+.gitignore
+.travis.yml
+tsconfig.json
+tslint.json
+package-lock.json
+java-extension/**
+gulpfile.js
+resources/templates/scss/**
+dist/**/*.map
+webpack.*.js
+node_modules
+*.log
+demo
+CONTRIBUTING.md
+.github/**
+
+# Ignore output of code sign
+server/*.md

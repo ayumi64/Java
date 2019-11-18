@@ -1,0 +1,32 @@
+$body-bg: var(--vscode-editor-background);
+$body-color: var(--vscode-foreground);
+$link-color: var(--vscode-textLink-foreground);
+$link-hover-color: $link-color;
+$link-hover-decoration: none !default;
+
+$list-group-bg: var(--vscode-notifications-background);
+$list-group-active-bg: var(--vscode-titleBar-activeBackground);
+$list-group-border-width: 0;
+$list-group-action-active-bg: $list-group-bg;
+$list-group-active-color: var(--vscode-foreground);
+$list-group-action-color: var(--vscode-foreground);
+$list-group-hover-bg: var(--vscode-list-hoverBackground);
+
+$font-size-base: .85rem !default;
+$pre-color: var(--vscode-foreground);
+$code-color: var(--vscode-foreground);
+
+.accordion-toggle>div:nth-child(1):before {
+  font-family: 'FontAwesome';
+  content: "\f0d7";
+  color: var(--vscode-foreground);
+  margin-right: 0.5rem;
+}
+
+.accordion-toggle>div.collapsed:nth-child(1):before {
+  content: "\f0da";
+  margin-right: 0.5rem;
+}
+
+
+@import "../../../node_modules/bootstrap/scss/bootstrap";
