@@ -14,7 +14,7 @@ public class Cat{
     }
 
 
-public float getage( ){
+public float gettaage( ){
     System.out.println("cat's age is :" + age);
     return age;
 }
@@ -26,7 +26,7 @@ Cat Acat = new Cat("remi");
 
 Acat.setage(2);
 
-Acat.getage();
+Acat.gettaage();
 
 System.out.println("setage:"+ Acat.age);
 
