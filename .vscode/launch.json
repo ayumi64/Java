@@ -2,6 +2,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Employ",
+            "request": "launch",
+            "mainClass": "Employ",
+            "projectName": "Java_35490951"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Employee",
+            "request": "launch",
+            "mainClass": "Employee",
+            "projectName": "Java_35490951"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "Java_35490951"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Neko",
+            "request": "launch",
+            "mainClass": "Neko",
+            "projectName": "Java_35490951"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Puppy",
             "request": "launch",
             "mainClass": "Puppy"
