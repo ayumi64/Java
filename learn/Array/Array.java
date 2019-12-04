@@ -42,6 +42,18 @@ public class Array {
        }
        System.out.println("Max is " + max);
 
+/*
+for(type element: array)
+{
+    System.out.println(element);
+}
+*/       
+
+       double[] herList = {1.9,2.9,3,4,3.5};
+          for (double element:herList){
+             System.out.println(element);
+          }
+
 
     }
  }
