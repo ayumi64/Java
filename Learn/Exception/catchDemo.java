@@ -1,4 +1,4 @@
-package Exception;
+package exception;
 
 public class catchDemo {
     public  static void main(String[] args){
@@ -25,5 +25,6 @@ public class catchDemo {
   // 程序代码
 }catch(异常类型2 异常的变量名2){
   // 程序代码
-}
+}.3+
+
  */
