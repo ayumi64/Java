@@ -2,6 +2,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - MySQLDemo",
+            "request": "launch",
+            "mainClass": "MySQLDemo",
+            "projectName": "Java_35490951"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MammalInt",
+            "request": "launch",
+            "mainClass": "MammalInt",
+            "projectName": "Java_35490951"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - TestMax",
             "request": "launch",
             "mainClass": "TestMax",
