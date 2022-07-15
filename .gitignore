@@ -1,0 +1,7 @@
+node_modules
+metersphere
+.idea
+.pytest_cashe
+.idea
+.vscode
+target
