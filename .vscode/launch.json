@@ -2,6 +2,60 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "Main"
+        },
+        {
+            "type": "java",
+            "name": "Launch Neko",
+            "request": "launch",
+            "mainClass": "Neko",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "Launch MammalInt",
+            "request": "launch",
+            "mainClass": "animals.MammalInt",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "Launch Array",
+            "request": "launch",
+            "mainClass": "Array"
+        },
+        {
+            "type": "java",
+            "name": "Launch App",
+            "request": "launch",
+            "mainClass": "com.example.App",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "Launch RSAUtil",
+            "request": "launch",
+            "mainClass": "com.resource.RSAUtil",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "Launch Demo",
+            "request": "launch",
+            "mainClass": "com.resource.Demo",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "Launch SpringDemoApplication",
+            "request": "launch",
+            "mainClass": "com.example.spring_demo.SpringDemoApplication",
+            "projectName": "spring_demo"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - MySQLDemo",
             "request": "launch",
             "mainClass": "MySQLDemo",
